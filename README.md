@@ -14,8 +14,6 @@ In addition to that, there is a decrease in the skill level that is required for
 Malware detection through standard, signature-based methods is getting increasingly difﬁcult since all current malware applications tend to have multiple polymorphic layers to avoid detection or to use side mechanisms to automatically update themselves to a newer version at short periods of time to avoid detection by any antivirus software.
 
 Machine learning helps antivirus software detect new threats without relying on signatures. In the past, antivirus software relied largely on fingerprinting, which works by cross-referencing files against a huge database of known malware.
-
-The major flaw here is that signature checkers can only detect malware that has been seen before. That’s a rather large blind spot, given that hundreds of thousands of new malware variants are created every single day. Machine learning, on the other hand, can be trained to recognize the signs of good and bad files, enabling it to identify malicious patterns and detect malware – regardless of whether it’s been seen before or not.
 ---
 
 ## Objective
